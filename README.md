@@ -1,12 +1,12 @@
 # ocr_google_vision_cloud
 
 `pip install -r requirements.txt`  <br>
-`python image_optimizer.py --image path/to/your/image.jpg --creds credentials_file.json`
+`python ocr1.py --image path/to/your/image.jpg --creds credentials_file.json`
 
 <br>
 
 to test with sample image    <br>
-`python image_optimizer.py --image Car-Number-Plate.jpg --creds credentials_file.json`
+`python ocr1.py --image Car-Number-Plate.jpg --creds credentials_file.json`
 
 <br>
 
